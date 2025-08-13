@@ -6,7 +6,7 @@ vprofilePipeline(
     
     // Optional parameters with defaults
     // dockerRegistry: 'docker.io'
-    gitBranch: 'master
+    gitBranch: 'master'
     // dockerCreds: 'dockercred'
     // mavenTool: 'Maven'
     // dockerfile: 'Dockerfile'
